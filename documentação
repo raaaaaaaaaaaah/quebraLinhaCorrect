@@ -1,0 +1,11 @@
+esse código funciona, desde que:
+
+O CSV esteja no formato padrão, ou seja,
+
+Campos que contêm quebras de linha estejam entre aspas ("...").
+
+O delimitador esteja correto (; ou , conforme seu arquivo).
+
+Você informe o caminho certo para o arquivo de entrada (dados_bagunçados.csv) e o de saída (dados_corrigidos.csv).
+
+  Documentação a ser finalizada
